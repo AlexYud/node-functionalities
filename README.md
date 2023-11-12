@@ -1,2 +1,3 @@
-# Projetos-Node.js
-Projetos feitos no curso Formação Node.js.
+# Node Little Projects
+
+Simple functionalities made in Node.js
